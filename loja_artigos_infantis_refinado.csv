@@ -1,0 +1,501 @@
+ID,Nome Cliente,Descrição Produto,Quantidade,Valor,Idade,Bairro,Cidade,Estado,Data da Venda
+1,Laura,Chupetas,3,137.57,31,Liberdade,Cajazeiras,PB,17/06/2024
+2,Lucas,Roupa,8,201.0,45,Jardim Guanabara,Itaporanga,PB,27/04/2024
+3,Beatriz,Roupa,8,339.21,46,Jatobá,Pombal,PB,30/11/2024
+4,Ana,Saída de Maternidade,10,449.39,60,Liberdade,Guarabira,PB,31/12/2024
+5,Carlos,Chupetas,4,256.74,23,Salgadinho,Sousa,PB,15/01/2025
+6,Lucas,Roupa,1,314.86,53,Santa Clara,Cajazeiras,PB,21/01/2025
+7,João,Chupetas,4,13.03,58,Centro,Cajazeiras,PB,23/07/2024
+8,Lucas,Calçados,7,198.62,53,Salgadinho,Itaporanga,PB,07/02/2025
+9,Beatriz,Chupetas,10,201.89,24,Jatobá,Guarabira,PB,04/05/2024
+10,Laura,Roupa,9,317.1,32,Centro,Pombal,PB,03/05/2024
+11,Laura,Saída de Maternidade,5,229.01,23,Salgadinho,Itaporanga,PB,02/12/2024
+12,Ana,Chupetas,1,301.52,25,Liberdade,Pombal,PB,04/01/2025
+13,Laura,Roupa,6,190.54,41,Santa Clara,Patos,PB,25/05/2024
+14,Fernanda,Saída de Maternidade,2,230.69,44,Liberdade,Campina Grande,PB,11/04/2024
+15,Maria,Roupa,3,340.89,60,Belo Horizonte,Sousa,PB,22/04/2024
+16,Beatriz,Saída de Maternidade,6,427.36,32,Belo Horizonte,Patos,PB,05/12/2024
+17,Beatriz,Saída de Maternidade,8,170.65,33,Belo Horizonte,João Pessoa,PB,09/04/2024
+18,Marcos,Calçados,1,71.78,23,Salgadinho,Campina Grande,PB,03/01/2025
+19,Carlos,Calçados,10,204.32,34,Jardim Guanabara,Sousa,PB,13/04/2024
+20,João,Saída de Maternidade,3,380.88,53,Santa Clara,Campina Grande,PB,17/04/2024
+21,Laura,Chupetas,1,81.17,43,Jatobá,Guarabira,PB,08/01/2025
+22,Carlos,Saída de Maternidade,2,22.09,44,Centro,Guarabira,PB,30/11/2024
+23,Lucas,Saída de Maternidade,3,257.28,57,Belo Horizonte,Itaporanga,PB,18/01/2025
+24,Lucas,Saída de Maternidade,5,473.31,42,Salgadinho,Itaporanga,PB,07/12/2024
+25,Beatriz,Chupetas,3,289.78,33,Liberdade,Cajazeiras,PB,24/11/2024
+26,Maria,Calçados,3,490.88,31,Santa Clara,Itaporanga,PB,19/06/2024
+27,João,Roupa,10,478.57,47,Santa Clara,Itaporanga,PB,05/10/2024
+28,João,Roupa,4,39.41,20,Jatobá,Sousa,PB,25/11/2024
+29,Laura,Calçados,4,342.14,36,Belo Horizonte,Cajazeiras,PB,29/09/2024
+30,Ana,Calçados,7,212.99,28,Santa Clara,Cajazeiras,PB,25/02/2025
+31,Ana,Calçados,5,419.23,58,Liberdade,Campina Grande,PB,18/09/2024
+32,Marcos,Saída de Maternidade,3,295.58,28,Santa Clara,Itaporanga,PB,13/01/2025
+33,Maria,Calçados,2,364.18,55,Salgadinho,Patos,PB,31/10/2024
+34,Fernanda,Calçados,10,435.22,42,Jatobá,Itaporanga,PB,19/08/2024
+35,Fernanda,Saída de Maternidade,6,353.31,55,Jardim Guanabara,Patos,PB,11/12/2024
+36,Marcos,Chupetas,6,278.36,32,Jardim Guanabara,Itaporanga,PB,15/05/2024
+37,Laura,Roupa,7,437.81,26,Liberdade,Campina Grande,PB,25/06/2024
+38,Ana,Saída de Maternidade,6,473.88,41,Jatobá,Pombal,PB,20/02/2025
+39,José,Roupa,8,51.86,42,Santa Clara,Cajazeiras,PB,01/02/2025
+40,Beatriz,Chupetas,6,193.72,22,Salgadinho,Itaporanga,PB,10/03/2025
+41,Carlos,Calçados,8,152.74,60,Jatobá,João Pessoa,PB,06/04/2024
+42,Marcos,Roupa,9,80.58,59,Salgadinho,Guarabira,PB,20/03/2025
+43,Marcos,Chupetas,7,488.31,51,Jatobá,João Pessoa,PB,23/04/2024
+44,Lucas,Calçados,2,77.54,23,Santa Clara,Itaporanga,PB,27/04/2024
+45,Beatriz,Calçados,10,48.69,35,Liberdade,João Pessoa,PB,18/01/2025
+46,Maria,Calçados,5,141.4,32,Jatobá,Sousa,PB,24/02/2025
+47,Marcos,Calçados,7,402.84,43,Jatobá,Sousa,PB,14/09/2024
+48,Beatriz,Saída de Maternidade,3,466.03,21,Jatobá,Guarabira,PB,16/01/2025
+49,Maria,Roupa,9,407.92,39,Centro,Guarabira,PB,07/11/2024
+50,Marcos,Chupetas,5,68.42,20,Centro,Pombal,PB,01/09/2024
+51,Fernanda,Calçados,6,410.28,54,Belo Horizonte,Cajazeiras,PB,01/02/2025
+52,Marcos,Calçados,4,100.73,30,Centro,Pombal,PB,31/08/2024
+53,Laura,Chupetas,4,185.97,47,Centro,Guarabira,PB,18/06/2024
+54,José,Calçados,9,206.78,45,Liberdade,João Pessoa,PB,19/03/2025
+55,Carlos,Roupa,8,218.07,36,Jatobá,Guarabira,PB,21/05/2024
+56,Laura,Chupetas,2,427.2,42,Jardim Guanabara,Pombal,PB,22/07/2024
+57,Laura,Chupetas,7,288.4,20,Centro,Campina Grande,PB,07/06/2024
+58,Lucas,Saída de Maternidade,10,397.57,50,Liberdade,Pombal,PB,18/07/2024
+59,Marcos,Roupa,7,273.79,22,Centro,Patos,PB,07/03/2025
+60,José,Roupa,9,451.85,28,Santa Clara,Pombal,PB,30/08/2024
+61,Lucas,Calçados,2,486.66,59,Liberdade,Patos,PB,25/12/2024
+62,Laura,Roupa,4,289.7,60,Jatobá,Guarabira,PB,09/07/2024
+63,Beatriz,Saída de Maternidade,9,455.94,39,Liberdade,Cajazeiras,PB,23/12/2024
+64,Marcos,Calçados,8,58.45,49,Jardim Guanabara,Sousa,PB,24/07/2024
+65,João,Calçados,5,219.83,23,Centro,Campina Grande,PB,31/05/2024
+66,Beatriz,Chupetas,7,56.5,42,Belo Horizonte,João Pessoa,PB,17/11/2024
+67,Carlos,Saída de Maternidade,10,181.46,37,Liberdade,Itaporanga,PB,05/12/2024
+68,Carlos,Saída de Maternidade,8,45.05,19,Jardim Guanabara,Sousa,PB,15/09/2024
+69,Ana,Saída de Maternidade,1,420.15,44,Jatobá,Guarabira,PB,10/09/2024
+70,Fernanda,Chupetas,8,473.19,39,Salgadinho,João Pessoa,PB,03/04/2024
+71,José,Chupetas,5,39.34,18,Liberdade,Cajazeiras,PB,28/06/2024
+72,Carlos,Chupetas,7,399.9,41,Jatobá,Cajazeiras,PB,31/07/2024
+73,Lucas,Calçados,3,213.73,29,Belo Horizonte,Pombal,PB,11/11/2024
+74,Carlos,Roupa,7,126.95,58,Santa Clara,Cajazeiras,PB,04/06/2024
+75,Fernanda,Chupetas,3,394.83,49,Santa Clara,Itaporanga,PB,05/05/2024
+76,José,Saída de Maternidade,7,103.57,36,Jatobá,Patos,PB,08/12/2024
+77,João,Saída de Maternidade,5,93.95,55,Salgadinho,João Pessoa,PB,31/12/2024
+78,Laura,Calçados,9,127.12,41,Liberdade,Guarabira,PB,28/04/2024
+79,Marcos,Chupetas,2,457.52,57,Liberdade,Campina Grande,PB,06/03/2025
+80,Beatriz,Roupa,6,171.84,23,Santa Clara,Cajazeiras,PB,31/12/2024
+81,Lucas,Roupa,4,462.93,47,Salgadinho,João Pessoa,PB,10/08/2024
+82,Ana,Chupetas,6,377.71,23,Jatobá,Campina Grande,PB,31/10/2024
+83,Beatriz,Saída de Maternidade,5,487.05,34,Liberdade,Campina Grande,PB,02/06/2024
+84,Maria,Roupa,2,151.52,21,Santa Clara,Itaporanga,PB,21/07/2024
+85,Carlos,Roupa,6,53.62,22,Santa Clara,Cajazeiras,PB,05/01/2025
+86,Beatriz,Saída de Maternidade,10,259.84,27,Centro,Campina Grande,PB,04/10/2024
+87,Lucas,Saída de Maternidade,5,252.01,22,Centro,Pombal,PB,14/10/2024
+88,José,Roupa,10,350.52,26,Salgadinho,Pombal,PB,03/04/2024
+89,João,Saída de Maternidade,4,31.21,38,Centro,João Pessoa,PB,15/02/2025
+90,Lucas,Saída de Maternidade,5,461.37,54,Jatobá,João Pessoa,PB,10/12/2024
+91,José,Calçados,2,499.86,26,Jardim Guanabara,Campina Grande,PB,09/08/2024
+92,Beatriz,Saída de Maternidade,8,187.53,50,Salgadinho,Guarabira,PB,05/12/2024
+93,Ana,Saída de Maternidade,10,305.44,55,Salgadinho,João Pessoa,PB,25/02/2025
+94,Beatriz,Roupa,3,462.03,24,Santa Clara,Itaporanga,PB,22/02/2025
+95,Fernanda,Calçados,4,396.08,58,Jardim Guanabara,João Pessoa,PB,23/10/2024
+96,Lucas,Roupa,5,438.32,22,Centro,Guarabira,PB,12/04/2024
+97,Carlos,Saída de Maternidade,8,277.34,48,Belo Horizonte,Guarabira,PB,30/09/2024
+98,Carlos,Chupetas,2,465.33,41,Jatobá,Campina Grande,PB,19/05/2024
+99,Beatriz,Chupetas,1,474.14,45,Centro,João Pessoa,PB,09/04/2024
+100,Fernanda,Chupetas,9,16.45,40,Liberdade,João Pessoa,PB,08/11/2024
+101,Lucas,Roupa,5,231.46,43,Santa Clara,Itaporanga,PB,09/07/2024
+102,Laura,Chupetas,4,65.62,20,Belo Horizonte,Sousa,PB,02/01/2025
+103,Carlos,Saída de Maternidade,10,355.63,23,Liberdade,Itaporanga,PB,05/04/2024
+104,Carlos,Roupa,9,107.83,30,Liberdade,Campina Grande,PB,06/05/2024
+105,Carlos,Calçados,6,444.67,56,Salgadinho,João Pessoa,PB,03/01/2025
+106,Maria,Saída de Maternidade,10,218.05,52,Belo Horizonte,Sousa,PB,08/05/2024
+107,Carlos,Saída de Maternidade,5,311.47,51,Centro,João Pessoa,PB,15/07/2024
+108,Ana,Chupetas,7,442.19,47,Jardim Guanabara,João Pessoa,PB,06/05/2024
+109,Lucas,Saída de Maternidade,6,57.53,50,Belo Horizonte,Sousa,PB,19/10/2024
+110,Carlos,Roupa,4,493.04,32,Salgadinho,Sousa,PB,06/09/2024
+111,Ana,Roupa,8,185.4,18,Centro,Itaporanga,PB,10/02/2025
+112,João,Calçados,10,429.4,23,Centro,Sousa,PB,28/08/2024
+113,Fernanda,Saída de Maternidade,2,204.87,52,Liberdade,Cajazeiras,PB,27/02/2025
+114,Marcos,Roupa,6,66.32,46,Jardim Guanabara,Campina Grande,PB,30/12/2024
+115,Lucas,Saída de Maternidade,1,219.53,30,Centro,Sousa,PB,09/06/2024
+116,Lucas,Chupetas,9,342.52,58,Centro,Pombal,PB,12/01/2025
+117,Beatriz,Roupa,6,459.96,40,Centro,Itaporanga,PB,07/06/2024
+118,Fernanda,Calçados,7,481.75,55,Santa Clara,Itaporanga,PB,20/09/2024
+119,José,Saída de Maternidade,4,329.65,23,Salgadinho,Patos,PB,06/07/2024
+120,Ana,Roupa,9,338.99,22,Centro,Patos,PB,06/04/2024
+121,Laura,Roupa,2,454.76,47,Jatobá,Itaporanga,PB,24/08/2024
+122,José,Roupa,8,58.9,19,Belo Horizonte,Sousa,PB,20/10/2024
+123,Lucas,Roupa,5,353.64,25,Centro,Pombal,PB,14/12/2024
+124,Beatriz,Chupetas,3,177.88,48,Centro,Campina Grande,PB,06/01/2025
+125,Marcos,Chupetas,9,323.93,37,Liberdade,Campina Grande,PB,23/09/2024
+126,Marcos,Roupa,4,260.3,58,Liberdade,João Pessoa,PB,24/01/2025
+127,Beatriz,Chupetas,6,108.79,44,Santa Clara,Guarabira,PB,05/12/2024
+128,Lucas,Chupetas,1,440.66,44,Salgadinho,Pombal,PB,01/12/2024
+129,João,Chupetas,10,136.89,31,Jatobá,Patos,PB,31/08/2024
+130,Ana,Roupa,7,327.54,50,Jatobá,Campina Grande,PB,12/09/2024
+131,Fernanda,Calçados,6,376.66,60,Jardim Guanabara,Cajazeiras,PB,26/06/2024
+132,Fernanda,Calçados,3,13.86,36,Centro,Patos,PB,28/02/2025
+133,Carlos,Chupetas,3,493.28,45,Santa Clara,Campina Grande,PB,04/05/2024
+134,Carlos,Chupetas,10,169.99,39,Liberdade,Guarabira,PB,16/04/2024
+135,Marcos,Calçados,6,344.34,30,Liberdade,Cajazeiras,PB,12/11/2024
+136,Maria,Roupa,1,430.81,18,Salgadinho,Itaporanga,PB,17/01/2025
+137,Beatriz,Calçados,3,34.5,42,Jatobá,Sousa,PB,31/03/2024
+138,João,Chupetas,10,90.77,39,Salgadinho,Cajazeiras,PB,10/06/2024
+139,Marcos,Roupa,8,205.68,21,Centro,Guarabira,PB,28/10/2024
+140,Ana,Calçados,8,166.62,20,Belo Horizonte,Pombal,PB,24/06/2024
+141,João,Roupa,4,245.83,45,Liberdade,Patos,PB,26/11/2024
+142,Laura,Calçados,6,340.19,39,Centro,Sousa,PB,01/09/2024
+143,Laura,Chupetas,8,150.35,30,Jardim Guanabara,Patos,PB,22/03/2024
+144,Fernanda,Roupa,7,493.11,37,Belo Horizonte,Guarabira,PB,02/03/2025
+145,João,Saída de Maternidade,8,330.12,26,Santa Clara,Campina Grande,PB,29/12/2024
+146,Maria,Calçados,5,375.65,40,Salgadinho,Campina Grande,PB,05/05/2024
+147,Laura,Roupa,1,422.41,58,Liberdade,Patos,PB,13/06/2024
+148,Maria,Chupetas,3,148.02,60,Liberdade,Guarabira,PB,23/06/2024
+149,Lucas,Roupa,10,378.68,43,Centro,Campina Grande,PB,20/09/2024
+150,Maria,Calçados,1,381.54,35,Jatobá,João Pessoa,PB,15/04/2024
+151,Beatriz,Saída de Maternidade,8,222.66,31,Belo Horizonte,Patos,PB,25/02/2025
+152,Ana,Chupetas,9,212.19,30,Salgadinho,Guarabira,PB,30/07/2024
+153,Marcos,Roupa,10,168.91,37,Jatobá,João Pessoa,PB,25/08/2024
+154,Ana,Roupa,10,75.27,37,Jardim Guanabara,Cajazeiras,PB,30/01/2025
+155,Marcos,Chupetas,1,67.1,53,Jardim Guanabara,Guarabira,PB,03/05/2024
+156,Maria,Roupa,7,410.86,48,Jardim Guanabara,Patos,PB,27/03/2024
+157,José,Calçados,6,149.24,54,Salgadinho,Cajazeiras,PB,28/02/2025
+158,Maria,Calçados,5,241.46,59,Jardim Guanabara,Pombal,PB,21/10/2024
+159,João,Saída de Maternidade,6,230.5,29,Liberdade,Sousa,PB,13/11/2024
+160,Maria,Saída de Maternidade,7,397.63,21,Belo Horizonte,Pombal,PB,13/02/2025
+161,Beatriz,Saída de Maternidade,7,329.75,43,Jardim Guanabara,Campina Grande,PB,09/03/2025
+162,Fernanda,Chupetas,8,393.65,23,Salgadinho,Pombal,PB,28/08/2024
+163,Carlos,Roupa,9,264.42,49,Liberdade,Sousa,PB,31/12/2024
+164,Lucas,Saída de Maternidade,2,33.85,32,Salgadinho,Patos,PB,17/03/2025
+165,Lucas,Calçados,3,145.23,23,Jardim Guanabara,Sousa,PB,01/04/2024
+166,Carlos,Roupa,8,434.37,56,Jardim Guanabara,João Pessoa,PB,05/12/2024
+167,Maria,Calçados,9,104.73,52,Jardim Guanabara,Guarabira,PB,04/12/2024
+168,Ana,Chupetas,8,195.07,47,Jatobá,Pombal,PB,20/12/2024
+169,Ana,Chupetas,2,462.23,18,Jatobá,Guarabira,PB,19/05/2024
+170,Fernanda,Saída de Maternidade,6,94.26,53,Jatobá,Cajazeiras,PB,23/02/2025
+171,João,Calçados,5,138.87,25,Santa Clara,Cajazeiras,PB,27/01/2025
+172,Carlos,Chupetas,9,148.49,43,Liberdade,Cajazeiras,PB,10/08/2024
+173,Ana,Roupa,2,129.98,45,Jatobá,Sousa,PB,15/10/2024
+174,Carlos,Chupetas,10,213.14,21,Santa Clara,Sousa,PB,27/07/2024
+175,Fernanda,Calçados,2,424.49,19,Santa Clara,Guarabira,PB,10/05/2024
+176,Fernanda,Chupetas,3,321.59,26,Santa Clara,Guarabira,PB,17/12/2024
+177,José,Chupetas,3,116.77,34,Belo Horizonte,Itaporanga,PB,16/02/2025
+178,Laura,Roupa,5,472.72,36,Liberdade,João Pessoa,PB,02/05/2024
+179,Maria,Roupa,7,429.96,26,Liberdade,João Pessoa,PB,25/08/2024
+180,Maria,Chupetas,7,271.34,32,Jardim Guanabara,Itaporanga,PB,16/06/2024
+181,Lucas,Saída de Maternidade,10,451.52,18,Centro,Pombal,PB,23/05/2024
+182,Maria,Roupa,5,70.18,44,Jatobá,Pombal,PB,13/09/2024
+183,Beatriz,Calçados,5,318.75,18,Centro,Guarabira,PB,17/07/2024
+184,Maria,Saída de Maternidade,7,493.27,46,Jardim Guanabara,Itaporanga,PB,20/04/2024
+185,João,Roupa,4,34.8,54,Jardim Guanabara,Cajazeiras,PB,10/05/2024
+186,Ana,Saída de Maternidade,1,193.69,31,Belo Horizonte,Cajazeiras,PB,31/08/2024
+187,Ana,Saída de Maternidade,10,187.49,23,Centro,João Pessoa,PB,07/06/2024
+188,Maria,Calçados,5,454.9,36,Centro,Cajazeiras,PB,28/01/2025
+189,José,Calçados,10,75.91,34,Liberdade,Patos,PB,02/07/2024
+190,Marcos,Chupetas,5,129.18,30,Centro,Itaporanga,PB,15/01/2025
+191,João,Roupa,4,158.05,19,Jardim Guanabara,Cajazeiras,PB,06/07/2024
+192,Lucas,Chupetas,10,420.26,36,Salgadinho,Patos,PB,08/07/2024
+193,Ana,Saída de Maternidade,5,45.9,34,Belo Horizonte,Pombal,PB,19/06/2024
+194,Marcos,Saída de Maternidade,5,241.25,44,Jatobá,João Pessoa,PB,05/10/2024
+195,Fernanda,Saída de Maternidade,1,463.4,33,Santa Clara,Cajazeiras,PB,26/09/2024
+196,Lucas,Roupa,5,367.75,28,Salgadinho,Patos,PB,03/02/2025
+197,Marcos,Calçados,6,350.69,60,Belo Horizonte,Guarabira,PB,19/11/2024
+198,Ana,Saída de Maternidade,2,45.79,50,Belo Horizonte,Patos,PB,09/12/2024
+199,Marcos,Roupa,9,248.76,35,Salgadinho,Guarabira,PB,03/11/2024
+200,Carlos,Calçados,3,300.19,50,Jardim Guanabara,Pombal,PB,20/02/2025
+201,Fernanda,Saída de Maternidade,3,101.55,40,Santa Clara,Sousa,PB,20/10/2024
+202,Carlos,Calçados,2,240.55,43,Belo Horizonte,Patos,PB,17/04/2024
+203,Laura,Chupetas,10,41.15,34,Jatobá,Campina Grande,PB,07/01/2025
+204,Beatriz,Chupetas,5,97.11,56,Centro,Patos,PB,10/12/2024
+205,Maria,Chupetas,10,272.84,20,Jardim Guanabara,Patos,PB,07/03/2025
+206,Maria,Roupa,3,166.62,52,Liberdade,Guarabira,PB,08/02/2025
+207,Marcos,Calçados,9,279.76,56,Centro,Campina Grande,PB,31/12/2024
+208,Laura,Calçados,8,110.16,59,Santa Clara,Pombal,PB,10/09/2024
+209,Carlos,Calçados,4,207.72,34,Salgadinho,Itaporanga,PB,30/04/2024
+210,Maria,Roupa,7,342.43,59,Liberdade,Itaporanga,PB,24/01/2025
+211,Beatriz,Chupetas,9,302.11,25,Jatobá,Itaporanga,PB,19/07/2024
+212,Fernanda,Roupa,4,116.83,18,Jatobá,Guarabira,PB,27/11/2024
+213,Fernanda,Calçados,1,229.87,37,Jatobá,Itaporanga,PB,19/08/2024
+214,João,Calçados,10,147.98,30,Jatobá,João Pessoa,PB,13/01/2025
+215,Laura,Saída de Maternidade,5,202.06,52,Santa Clara,Itaporanga,PB,07/02/2025
+216,Beatriz,Chupetas,3,238.89,50,Centro,Cajazeiras,PB,09/06/2024
+217,Marcos,Saída de Maternidade,2,265.77,27,Belo Horizonte,Guarabira,PB,31/07/2024
+218,Maria,Saída de Maternidade,7,125.08,32,Jatobá,Guarabira,PB,29/09/2024
+219,Marcos,Calçados,3,249.04,43,Salgadinho,Cajazeiras,PB,16/10/2024
+220,Maria,Saída de Maternidade,1,268.35,49,Jardim Guanabara,Campina Grande,PB,28/08/2024
+221,Laura,Chupetas,10,69.07,50,Jardim Guanabara,João Pessoa,PB,09/05/2024
+222,Lucas,Chupetas,8,308.58,25,Centro,Cajazeiras,PB,21/12/2024
+223,João,Roupa,9,87.41,45,Centro,Pombal,PB,28/12/2024
+224,Carlos,Chupetas,5,497.57,60,Salgadinho,Campina Grande,PB,13/01/2025
+225,João,Saída de Maternidade,8,403.0,54,Liberdade,Pombal,PB,13/12/2024
+226,João,Saída de Maternidade,8,224.9,50,Centro,Sousa,PB,08/07/2024
+227,Laura,Calçados,3,413.05,20,Liberdade,Sousa,PB,13/06/2024
+228,João,Roupa,6,453.49,51,Santa Clara,João Pessoa,PB,06/07/2024
+229,Lucas,Calçados,7,201.88,56,Jatobá,Sousa,PB,27/02/2025
+230,Fernanda,Saída de Maternidade,2,17.29,32,Salgadinho,Guarabira,PB,01/11/2024
+231,Fernanda,Chupetas,10,110.02,39,Belo Horizonte,João Pessoa,PB,02/05/2024
+232,Ana,Chupetas,8,101.15,55,Liberdade,Pombal,PB,04/10/2024
+233,Maria,Roupa,1,255.73,48,Belo Horizonte,Guarabira,PB,19/08/2024
+234,José,Saída de Maternidade,10,161.05,48,Jatobá,João Pessoa,PB,21/12/2024
+235,Ana,Chupetas,1,408.92,50,Salgadinho,Sousa,PB,01/09/2024
+236,Beatriz,Chupetas,3,343.71,53,Jardim Guanabara,Guarabira,PB,23/04/2024
+237,Beatriz,Roupa,5,54.43,40,Salgadinho,Cajazeiras,PB,22/03/2025
+238,João,Chupetas,8,59.21,32,Belo Horizonte,Cajazeiras,PB,09/03/2025
+239,Fernanda,Calçados,7,189.76,32,Salgadinho,Pombal,PB,28/04/2024
+240,Beatriz,Roupa,4,93.75,24,Jardim Guanabara,João Pessoa,PB,04/01/2025
+241,Laura,Saída de Maternidade,8,30.49,38,Centro,Pombal,PB,24/03/2024
+242,Beatriz,Saída de Maternidade,1,468.85,48,Belo Horizonte,Campina Grande,PB,01/12/2024
+243,Carlos,Saída de Maternidade,1,261.28,41,Belo Horizonte,Patos,PB,07/10/2024
+244,Carlos,Calçados,2,219.22,41,Belo Horizonte,Sousa,PB,21/05/2024
+245,Ana,Chupetas,9,366.14,57,Belo Horizonte,Campina Grande,PB,17/06/2024
+246,Maria,Saída de Maternidade,3,72.01,46,Jardim Guanabara,Patos,PB,16/05/2024
+247,Lucas,Saída de Maternidade,2,360.89,28,Jardim Guanabara,Campina Grande,PB,03/08/2024
+248,Maria,Roupa,10,334.05,34,Centro,Sousa,PB,23/11/2024
+249,João,Roupa,3,189.52,52,Belo Horizonte,Sousa,PB,11/07/2024
+250,Fernanda,Chupetas,2,360.46,43,Jatobá,Guarabira,PB,26/03/2024
+251,Marcos,Calçados,6,186.72,44,Santa Clara,Cajazeiras,PB,07/02/2025
+252,Ana,Calçados,9,393.58,58,Jardim Guanabara,Sousa,PB,20/10/2024
+253,Lucas,Saída de Maternidade,7,172.73,41,Jatobá,Sousa,PB,18/03/2025
+254,Lucas,Calçados,9,139.3,54,Belo Horizonte,Sousa,PB,17/08/2024
+255,Lucas,Calçados,10,360.28,52,Liberdade,Patos,PB,14/12/2024
+256,Maria,Calçados,1,431.73,43,Jatobá,Cajazeiras,PB,11/02/2025
+257,Laura,Roupa,9,80.17,57,Liberdade,Sousa,PB,24/10/2024
+258,João,Saída de Maternidade,9,197.45,42,Jardim Guanabara,João Pessoa,PB,25/05/2024
+259,Fernanda,Saída de Maternidade,3,497.22,43,Jardim Guanabara,Campina Grande,PB,11/06/2024
+260,Beatriz,Roupa,6,471.96,32,Salgadinho,Sousa,PB,13/05/2024
+261,João,Roupa,3,280.8,50,Belo Horizonte,Sousa,PB,20/12/2024
+262,Lucas,Roupa,3,252.77,21,Belo Horizonte,Guarabira,PB,19/02/2025
+263,José,Chupetas,2,418.74,51,Belo Horizonte,Patos,PB,07/09/2024
+264,Maria,Roupa,8,371.8,52,Jardim Guanabara,Guarabira,PB,02/03/2025
+265,Beatriz,Roupa,3,181.77,47,Belo Horizonte,Campina Grande,PB,05/10/2024
+266,Laura,Chupetas,1,378.59,60,Jardim Guanabara,Cajazeiras,PB,24/12/2024
+267,Lucas,Chupetas,8,374.3,59,Jardim Guanabara,Cajazeiras,PB,02/04/2024
+268,João,Roupa,4,465.82,47,Jatobá,Pombal,PB,08/03/2025
+269,Fernanda,Calçados,5,188.21,47,Liberdade,Patos,PB,11/12/2024
+270,Laura,Saída de Maternidade,1,361.12,55,Santa Clara,Sousa,PB,30/11/2024
+271,José,Chupetas,5,369.78,35,Jardim Guanabara,João Pessoa,PB,26/01/2025
+272,João,Calçados,6,311.54,30,Belo Horizonte,Sousa,PB,14/05/2024
+273,Maria,Saída de Maternidade,1,460.07,32,Salgadinho,Guarabira,PB,20/04/2024
+274,Ana,Chupetas,1,107.2,43,Salgadinho,Sousa,PB,04/09/2024
+275,Marcos,Saída de Maternidade,1,251.61,60,Belo Horizonte,Itaporanga,PB,23/11/2024
+276,Laura,Roupa,2,113.02,45,Liberdade,Sousa,PB,04/07/2024
+277,Laura,Roupa,10,491.85,28,Jardim Guanabara,Guarabira,PB,26/03/2024
+278,Maria,Calçados,7,283.57,30,Liberdade,Pombal,PB,24/03/2024
+279,Beatriz,Chupetas,7,249.86,48,Jatobá,João Pessoa,PB,14/08/2024
+280,Ana,Calçados,4,264.23,49,Liberdade,Patos,PB,19/09/2024
+281,Lucas,Saída de Maternidade,5,154.58,22,Salgadinho,Guarabira,PB,26/07/2024
+282,Fernanda,Roupa,10,16.21,36,Centro,Campina Grande,PB,01/02/2025
+283,Carlos,Saída de Maternidade,10,264.34,48,Belo Horizonte,Patos,PB,27/10/2024
+284,José,Calçados,7,466.87,46,Centro,João Pessoa,PB,06/10/2024
+285,Beatriz,Calçados,2,324.22,55,Santa Clara,Cajazeiras,PB,31/01/2025
+286,Fernanda,Calçados,9,183.55,35,Jardim Guanabara,Sousa,PB,13/02/2025
+287,Maria,Saída de Maternidade,2,64.86,50,Liberdade,Itaporanga,PB,05/07/2024
+288,João,Roupa,10,155.69,52,Liberdade,Sousa,PB,22/10/2024
+289,Laura,Chupetas,5,255.24,22,Liberdade,Patos,PB,23/08/2024
+290,Maria,Chupetas,7,340.59,55,Salgadinho,Sousa,PB,25/03/2024
+291,José,Saída de Maternidade,9,207.68,41,Salgadinho,João Pessoa,PB,12/07/2024
+292,Laura,Saída de Maternidade,7,161.23,26,Salgadinho,Cajazeiras,PB,15/02/2025
+293,Marcos,Calçados,1,151.38,57,Santa Clara,Pombal,PB,27/03/2024
+294,Beatriz,Saída de Maternidade,3,416.35,50,Jardim Guanabara,Patos,PB,25/04/2024
+295,Lucas,Chupetas,1,459.18,53,Santa Clara,Sousa,PB,27/05/2024
+296,Fernanda,Calçados,5,139.18,58,Centro,Patos,PB,13/01/2025
+297,João,Saída de Maternidade,10,195.69,42,Jatobá,Patos,PB,22/10/2024
+298,Fernanda,Calçados,1,297.3,23,Jardim Guanabara,Sousa,PB,04/12/2024
+299,Fernanda,Roupa,7,148.35,49,Centro,Cajazeiras,PB,06/02/2025
+300,Ana,Calçados,9,96.34,36,Santa Clara,Pombal,PB,20/06/2024
+301,Lucas,Calçados,4,279.15,33,Liberdade,Cajazeiras,PB,18/06/2024
+302,Laura,Chupetas,4,107.25,41,Centro,Pombal,PB,10/10/2024
+303,João,Calçados,7,493.21,49,Santa Clara,João Pessoa,PB,04/06/2024
+304,Fernanda,Chupetas,5,256.89,31,Liberdade,Cajazeiras,PB,14/01/2025
+305,Carlos,Roupa,8,470.2,30,Jardim Guanabara,Sousa,PB,01/06/2024
+306,Carlos,Calçados,3,259.51,24,Liberdade,Guarabira,PB,09/08/2024
+307,José,Saída de Maternidade,3,173.66,47,Jardim Guanabara,Cajazeiras,PB,11/02/2025
+308,Maria,Calçados,6,323.11,57,Salgadinho,Patos,PB,19/12/2024
+309,Ana,Chupetas,9,298.19,26,Salgadinho,Patos,PB,04/08/2024
+310,Beatriz,Chupetas,7,194.73,48,Jatobá,Pombal,PB,27/11/2024
+311,João,Calçados,7,374.6,19,Santa Clara,Sousa,PB,15/10/2024
+312,Carlos,Saída de Maternidade,6,337.42,37,Belo Horizonte,Sousa,PB,07/10/2024
+313,Laura,Saída de Maternidade,8,295.12,55,Santa Clara,Pombal,PB,11/11/2024
+314,José,Calçados,6,87.59,43,Belo Horizonte,Itaporanga,PB,06/03/2025
+315,Laura,Roupa,6,123.86,33,Liberdade,Patos,PB,14/09/2024
+316,Maria,Saída de Maternidade,4,237.62,43,Jatobá,Campina Grande,PB,29/10/2024
+317,João,Saída de Maternidade,7,453.31,46,Salgadinho,Sousa,PB,28/04/2024
+318,Fernanda,Calçados,1,476.72,31,Liberdade,Cajazeiras,PB,31/01/2025
+319,Marcos,Chupetas,8,162.09,23,Jatobá,Cajazeiras,PB,25/06/2024
+320,Carlos,Chupetas,1,24.21,51,Salgadinho,Campina Grande,PB,30/08/2024
+321,Laura,Saída de Maternidade,5,190.12,44,Santa Clara,Sousa,PB,19/10/2024
+322,Marcos,Roupa,6,273.9,22,Belo Horizonte,Guarabira,PB,20/11/2024
+323,João,Chupetas,2,81.1,57,Belo Horizonte,João Pessoa,PB,19/11/2024
+324,Ana,Calçados,4,371.42,44,Jardim Guanabara,Guarabira,PB,11/11/2024
+325,Marcos,Calçados,2,104.33,18,Liberdade,João Pessoa,PB,03/09/2024
+326,Ana,Chupetas,5,362.78,34,Centro,Pombal,PB,12/06/2024
+327,Maria,Chupetas,4,206.69,44,Liberdade,João Pessoa,PB,09/01/2025
+328,Fernanda,Calçados,7,375.12,26,Santa Clara,Itaporanga,PB,23/02/2025
+329,Ana,Saída de Maternidade,7,161.41,47,Centro,João Pessoa,PB,29/12/2024
+330,Marcos,Saída de Maternidade,7,484.28,35,Centro,Cajazeiras,PB,21/05/2024
+331,Fernanda,Saída de Maternidade,8,427.33,41,Jatobá,Sousa,PB,31/07/2024
+332,Carlos,Roupa,7,310.95,32,Santa Clara,Itaporanga,PB,20/10/2024
+333,Ana,Saída de Maternidade,10,373.64,20,Belo Horizonte,Cajazeiras,PB,06/08/2024
+334,Lucas,Calçados,2,199.26,52,Centro,Sousa,PB,11/04/2024
+335,Maria,Calçados,1,494.92,49,Jardim Guanabara,Campina Grande,PB,21/04/2024
+336,Maria,Chupetas,4,468.84,44,Liberdade,Guarabira,PB,01/04/2024
+337,Lucas,Chupetas,7,102.82,19,Belo Horizonte,João Pessoa,PB,13/08/2024
+338,Laura,Calçados,1,117.94,40,Centro,Sousa,PB,12/12/2024
+339,José,Calçados,3,206.94,40,Centro,Patos,PB,06/02/2025
+340,João,Saída de Maternidade,4,133.93,56,Jatobá,Cajazeiras,PB,25/12/2024
+341,Fernanda,Roupa,2,240.68,20,Jardim Guanabara,Cajazeiras,PB,07/08/2024
+342,Maria,Chupetas,1,233.38,35,Belo Horizonte,João Pessoa,PB,03/05/2024
+343,Beatriz,Roupa,7,29.8,18,Santa Clara,João Pessoa,PB,06/09/2024
+344,Laura,Saída de Maternidade,5,147.57,19,Liberdade,Campina Grande,PB,26/04/2024
+345,Maria,Roupa,10,19.8,47,Jatobá,Cajazeiras,PB,28/11/2024
+346,Maria,Roupa,10,378.85,21,Jardim Guanabara,Cajazeiras,PB,18/09/2024
+347,Ana,Calçados,8,490.08,46,Jatobá,Pombal,PB,02/08/2024
+348,Fernanda,Saída de Maternidade,6,270.71,27,Jatobá,Campina Grande,PB,30/12/2024
+349,Marcos,Saída de Maternidade,9,372.1,59,Belo Horizonte,Itaporanga,PB,27/09/2024
+350,João,Chupetas,9,206.96,25,Salgadinho,Patos,PB,27/12/2024
+351,Marcos,Chupetas,2,393.66,51,Liberdade,João Pessoa,PB,25/11/2024
+352,José,Roupa,10,241.01,26,Salgadinho,João Pessoa,PB,29/10/2024
+353,Marcos,Roupa,4,324.9,24,Jatobá,Patos,PB,05/01/2025
+354,João,Calçados,9,467.77,43,Centro,Itaporanga,PB,17/12/2024
+355,Maria,Chupetas,3,158.32,52,Centro,Patos,PB,17/07/2024
+356,João,Saída de Maternidade,4,450.66,42,Centro,Pombal,PB,29/01/2025
+357,Beatriz,Calçados,6,232.28,24,Santa Clara,João Pessoa,PB,04/08/2024
+358,José,Roupa,7,431.85,60,Salgadinho,Campina Grande,PB,27/04/2024
+359,João,Roupa,8,10.6,53,Salgadinho,Patos,PB,15/12/2024
+360,Laura,Calçados,2,470.72,26,Belo Horizonte,Sousa,PB,19/11/2024
+361,Carlos,Roupa,9,151.91,37,Santa Clara,Patos,PB,19/03/2025
+362,Laura,Saída de Maternidade,1,427.25,22,Jardim Guanabara,Cajazeiras,PB,24/12/2024
+363,João,Chupetas,7,222.21,22,Salgadinho,Guarabira,PB,20/06/2024
+364,Fernanda,Roupa,6,243.69,49,Liberdade,João Pessoa,PB,07/04/2024
+365,Carlos,Chupetas,1,211.8,52,Salgadinho,Sousa,PB,01/10/2024
+366,Beatriz,Saída de Maternidade,2,305.12,36,Santa Clara,Pombal,PB,16/04/2024
+367,Laura,Chupetas,1,56.23,36,Belo Horizonte,Patos,PB,24/12/2024
+368,Maria,Saída de Maternidade,5,124.58,33,Belo Horizonte,Campina Grande,PB,10/04/2024
+369,Beatriz,Saída de Maternidade,6,289.17,35,Liberdade,Patos,PB,31/07/2024
+370,José,Roupa,7,471.9,26,Belo Horizonte,Guarabira,PB,10/03/2025
+371,Lucas,Roupa,3,462.14,49,Belo Horizonte,Patos,PB,06/09/2024
+372,João,Saída de Maternidade,5,261.6,40,Jardim Guanabara,Patos,PB,30/03/2024
+373,Marcos,Saída de Maternidade,3,44.63,38,Salgadinho,Pombal,PB,28/12/2024
+374,Lucas,Chupetas,10,114.61,58,Centro,Cajazeiras,PB,02/02/2025
+375,Ana,Chupetas,8,443.81,46,Salgadinho,Guarabira,PB,05/11/2024
+376,Beatriz,Saída de Maternidade,1,74.64,54,Jardim Guanabara,Guarabira,PB,06/11/2024
+377,Beatriz,Roupa,2,103.9,59,Belo Horizonte,Campina Grande,PB,22/01/2025
+378,João,Chupetas,4,462.53,27,Jardim Guanabara,Campina Grande,PB,27/11/2024
+379,João,Chupetas,10,381.71,28,Jatobá,Sousa,PB,06/01/2025
+380,José,Calçados,9,156.89,29,Jardim Guanabara,Sousa,PB,04/03/2025
+381,Marcos,Roupa,1,225.12,19,Centro,Patos,PB,28/05/2024
+382,Ana,Calçados,8,413.59,27,Santa Clara,Cajazeiras,PB,12/02/2025
+383,Ana,Saída de Maternidade,3,189.1,55,Salgadinho,Cajazeiras,PB,28/02/2025
+384,Carlos,Roupa,10,488.89,23,Jardim Guanabara,João Pessoa,PB,31/08/2024
+385,Lucas,Saída de Maternidade,3,115.92,55,Salgadinho,Patos,PB,08/04/2024
+386,Ana,Calçados,9,482.49,54,Salgadinho,Cajazeiras,PB,22/10/2024
+387,Fernanda,Chupetas,2,411.15,43,Salgadinho,João Pessoa,PB,08/08/2024
+388,José,Calçados,4,310.27,46,Liberdade,Patos,PB,09/11/2024
+389,Fernanda,Calçados,7,474.72,22,Centro,Patos,PB,19/10/2024
+390,Maria,Saída de Maternidade,4,66.75,39,Belo Horizonte,Campina Grande,PB,11/10/2024
+391,Beatriz,Calçados,3,17.64,20,Santa Clara,Patos,PB,18/11/2024
+392,Laura,Chupetas,5,354.86,33,Santa Clara,Sousa,PB,22/11/2024
+393,Fernanda,Calçados,6,426.82,36,Centro,Sousa,PB,16/01/2025
+394,Marcos,Calçados,8,67.22,24,Salgadinho,Patos,PB,13/08/2024
+395,Fernanda,Saída de Maternidade,8,471.13,31,Santa Clara,Itaporanga,PB,23/07/2024
+396,Marcos,Chupetas,8,26.38,23,Jatobá,Campina Grande,PB,23/08/2024
+397,Lucas,Calçados,9,283.46,44,Santa Clara,Sousa,PB,26/04/2024
+398,Laura,Calçados,10,85.12,39,Santa Clara,João Pessoa,PB,04/08/2024
+399,Lucas,Roupa,3,155.25,21,Jardim Guanabara,Pombal,PB,09/10/2024
+400,João,Roupa,8,215.49,50,Belo Horizonte,João Pessoa,PB,15/09/2024
+401,Carlos,Chupetas,8,142.55,26,Belo Horizonte,Campina Grande,PB,10/10/2024
+402,Carlos,Roupa,8,156.6,49,Liberdade,Campina Grande,PB,19/05/2024
+403,Carlos,Saída de Maternidade,3,40.88,37,Jardim Guanabara,Cajazeiras,PB,05/07/2024
+404,Carlos,Roupa,1,68.96,27,Jardim Guanabara,Itaporanga,PB,01/03/2025
+405,Laura,Roupa,7,482.88,32,Centro,Guarabira,PB,22/03/2025
+406,João,Calçados,10,399.0,56,Salgadinho,João Pessoa,PB,23/09/2024
+407,Lucas,Saída de Maternidade,3,81.67,45,Centro,Guarabira,PB,11/11/2024
+408,João,Calçados,10,209.92,35,Belo Horizonte,João Pessoa,PB,27/12/2024
+409,Fernanda,Roupa,6,311.01,60,Liberdade,Sousa,PB,15/03/2025
+410,Laura,Chupetas,9,457.18,32,Liberdade,Cajazeiras,PB,12/08/2024
+411,Maria,Roupa,7,326.07,26,Jatobá,Guarabira,PB,25/06/2024
+412,Carlos,Roupa,6,86.31,56,Santa Clara,Guarabira,PB,19/08/2024
+413,José,Roupa,7,406.12,53,Centro,Patos,PB,23/12/2024
+414,Beatriz,Calçados,9,479.59,39,Liberdade,Pombal,PB,22/03/2024
+415,Carlos,Saída de Maternidade,2,323.78,44,Belo Horizonte,Pombal,PB,22/03/2024
+416,Marcos,Roupa,6,54.09,21,Jardim Guanabara,João Pessoa,PB,11/12/2024
+417,Beatriz,Calçados,9,217.91,33,Jatobá,Patos,PB,11/04/2024
+418,Lucas,Chupetas,4,355.79,59,Belo Horizonte,Campina Grande,PB,05/03/2025
+419,Laura,Saída de Maternidade,7,169.56,53,Liberdade,Guarabira,PB,07/07/2024
+420,Fernanda,Roupa,1,11.34,24,Jatobá,Patos,PB,01/12/2024
+421,Lucas,Roupa,8,150.99,20,Salgadinho,Cajazeiras,PB,03/11/2024
+422,Beatriz,Saída de Maternidade,2,66.75,52,Belo Horizonte,Guarabira,PB,22/11/2024
+423,Laura,Saída de Maternidade,10,430.5,23,Jatobá,Patos,PB,22/03/2025
+424,Beatriz,Roupa,3,324.1,22,Salgadinho,Pombal,PB,17/04/2024
+425,Marcos,Calçados,8,390.88,36,Jardim Guanabara,Patos,PB,30/06/2024
+426,Carlos,Roupa,4,413.84,54,Liberdade,Sousa,PB,28/06/2024
+427,Ana,Calçados,9,85.33,60,Santa Clara,Sousa,PB,22/05/2024
+428,Maria,Saída de Maternidade,4,485.03,20,Belo Horizonte,Guarabira,PB,28/06/2024
+429,Lucas,Saída de Maternidade,9,361.33,20,Jardim Guanabara,João Pessoa,PB,12/02/2025
+430,Marcos,Chupetas,1,478.05,35,Jardim Guanabara,Campina Grande,PB,14/12/2024
+431,Ana,Saída de Maternidade,4,112.35,58,Jatobá,Campina Grande,PB,11/09/2024
+432,Ana,Saída de Maternidade,1,117.51,19,Jatobá,Pombal,PB,09/04/2024
+433,Carlos,Calçados,4,110.66,39,Liberdade,Sousa,PB,17/04/2024
+434,Maria,Calçados,6,25.45,58,Salgadinho,João Pessoa,PB,13/02/2025
+435,Ana,Roupa,2,388.14,20,Belo Horizonte,Cajazeiras,PB,30/07/2024
+436,Maria,Saída de Maternidade,1,493.52,30,Jatobá,Patos,PB,26/08/2024
+437,José,Chupetas,3,172.51,18,Jatobá,Sousa,PB,26/07/2024
+438,Carlos,Calçados,2,264.73,47,Belo Horizonte,João Pessoa,PB,29/01/2025
+439,Lucas,Roupa,7,208.68,33,Belo Horizonte,Itaporanga,PB,21/03/2025
+440,Carlos,Roupa,4,345.45,47,Salgadinho,Guarabira,PB,22/06/2024
+441,Laura,Chupetas,9,249.03,31,Belo Horizonte,Pombal,PB,16/06/2024
+442,Ana,Saída de Maternidade,3,88.36,26,Santa Clara,Campina Grande,PB,09/12/2024
+443,Maria,Calçados,3,388.96,41,Salgadinho,Sousa,PB,11/12/2024
+444,Ana,Calçados,2,265.48,58,Jatobá,Itaporanga,PB,23/10/2024
+445,Lucas,Calçados,1,350.43,30,Jatobá,Cajazeiras,PB,30/03/2024
+446,Ana,Calçados,2,335.93,26,Liberdade,Patos,PB,05/09/2024
+447,Ana,Calçados,2,302.44,41,Salgadinho,Pombal,PB,28/02/2025
+448,Laura,Calçados,3,455.9,59,Salgadinho,Campina Grande,PB,27/11/2024
+449,Carlos,Roupa,3,190.27,34,Santa Clara,Pombal,PB,20/02/2025
+450,Carlos,Chupetas,1,188.86,52,Centro,Pombal,PB,13/12/2024
+451,Beatriz,Roupa,9,206.99,40,Santa Clara,Cajazeiras,PB,03/11/2024
+452,Beatriz,Calçados,3,64.17,46,Salgadinho,Guarabira,PB,22/08/2024
+453,José,Chupetas,3,208.72,35,Salgadinho,Patos,PB,03/09/2024
+454,Beatriz,Calçados,4,223.84,36,Salgadinho,Campina Grande,PB,21/06/2024
+455,Fernanda,Roupa,4,429.57,59,Santa Clara,João Pessoa,PB,11/06/2024
+456,Maria,Roupa,3,134.57,22,Belo Horizonte,Guarabira,PB,28/07/2024
+457,Ana,Calçados,8,101.28,37,Jatobá,Pombal,PB,09/11/2024
+458,Maria,Calçados,4,30.17,59,Santa Clara,Itaporanga,PB,26/01/2025
+459,Laura,Calçados,9,75.62,34,Salgadinho,Patos,PB,11/02/2025
+460,Marcos,Roupa,3,378.15,35,Salgadinho,Pombal,PB,22/11/2024
+461,Beatriz,Chupetas,8,101.91,31,Jatobá,Sousa,PB,07/05/2024
+462,Carlos,Saída de Maternidade,9,321.44,36,Salgadinho,Pombal,PB,25/12/2024
+463,Marcos,Calçados,8,296.71,41,Jatobá,Campina Grande,PB,17/04/2024
+464,João,Calçados,6,303.9,46,Salgadinho,Itaporanga,PB,22/11/2024
+465,Beatriz,Saída de Maternidade,4,80.27,28,Santa Clara,Itaporanga,PB,02/04/2024
+466,Carlos,Calçados,9,145.41,30,Jardim Guanabara,Cajazeiras,PB,11/11/2024
+467,Laura,Calçados,9,287.49,40,Salgadinho,Patos,PB,05/05/2024
+468,Marcos,Chupetas,5,419.78,49,Salgadinho,Campina Grande,PB,06/10/2024
+469,Fernanda,Calçados,10,459.34,60,Jatobá,Guarabira,PB,26/12/2024
+470,João,Calçados,1,132.04,31,Jardim Guanabara,Patos,PB,24/04/2024
+471,Beatriz,Calçados,1,371.91,48,Liberdade,Itaporanga,PB,21/10/2024
+472,Fernanda,Calçados,2,95.48,25,Salgadinho,Cajazeiras,PB,26/04/2024
+473,João,Roupa,1,486.46,37,Centro,Patos,PB,08/10/2024
+474,Lucas,Roupa,4,312.64,35,Jatobá,João Pessoa,PB,16/12/2024
+475,Lucas,Chupetas,4,404.9,53,Santa Clara,João Pessoa,PB,07/08/2024
+476,João,Chupetas,5,256.44,24,Centro,Patos,PB,10/05/2024
+477,Carlos,Chupetas,2,47.02,40,Salgadinho,Sousa,PB,20/09/2024
+478,João,Chupetas,10,406.8,58,Salgadinho,Sousa,PB,28/04/2024
+479,Maria,Chupetas,7,31.96,23,Belo Horizonte,Cajazeiras,PB,16/01/2025
+480,João,Roupa,3,285.09,51,Jardim Guanabara,Cajazeiras,PB,02/06/2024
+481,Maria,Roupa,1,42.79,46,Belo Horizonte,Campina Grande,PB,13/12/2024
+482,Fernanda,Saída de Maternidade,7,332.15,30,Jardim Guanabara,Campina Grande,PB,18/07/2024
+483,Ana,Roupa,9,262.37,60,Santa Clara,Itaporanga,PB,13/06/2024
+484,José,Roupa,6,360.52,22,Centro,Itaporanga,PB,14/07/2024
+485,Fernanda,Calçados,1,485.4,21,Jatobá,Campina Grande,PB,15/01/2025
+486,Laura,Calçados,5,74.93,51,Liberdade,Sousa,PB,12/02/2025
+487,José,Calçados,1,414.59,31,Jardim Guanabara,Pombal,PB,15/04/2024
+488,João,Calçados,7,54.46,26,Santa Clara,Sousa,PB,04/11/2024
+489,Lucas,Chupetas,7,271.24,43,Jatobá,Itaporanga,PB,17/02/2025
+490,João,Calçados,4,172.76,52,Centro,Pombal,PB,03/08/2024
+491,Laura,Chupetas,5,459.44,33,Santa Clara,Campina Grande,PB,04/06/2024
+492,Ana,Roupa,1,366.29,33,Salgadinho,João Pessoa,PB,11/02/2025
+493,Carlos,Saída de Maternidade,7,435.6,31,Jatobá,Campina Grande,PB,12/10/2024
+494,Carlos,Saída de Maternidade,3,111.65,54,Liberdade,Patos,PB,26/05/2024
+495,Laura,Saída de Maternidade,8,499.35,52,Santa Clara,Cajazeiras,PB,04/02/2025
+496,Laura,Calçados,8,170.71,51,Jardim Guanabara,Patos,PB,01/10/2024
+497,Carlos,Chupetas,10,283.9,50,Jatobá,Sousa,PB,08/11/2024
+498,Ana,Roupa,3,124.17,30,Belo Horizonte,Patos,PB,10/03/2025
+499,Carlos,Saída de Maternidade,7,158.47,56,Belo Horizonte,Itaporanga,PB,09/07/2024
+500,João,Saída de Maternidade,6,31.17,41,Jatobá,Pombal,PB,06/11/2024
